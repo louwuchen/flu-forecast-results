@@ -1,0 +1,42 @@
+{
+  "web/index.html": {
+    "bytes": 6130706,
+    "sha256": "71acf35b4f7134b72efc26418d4cae4def7b6f939a7db6cdf50439a8dad7e272"
+  },
+  "web/ablation.html": {
+    "bytes": 271,
+    "sha256": "85ad3883f7e5a3b9187af6aad296b2e4d506350bf73e2aa19e2073e095961d6e"
+  },
+  "slides/ppt.pdf": {
+    "bytes": 435580,
+    "sha256": "20269042d5f1ac246555d3ad2e85d63b8ae7e5e51d77c6f9744203c7f692dbe8"
+  },
+  "slides/speaker_notes.pdf": {
+    "bytes": 209559,
+    "sha256": "7569f95551f5c51d85e471d75b24dd623e48e50991240666b7cfcf457e105df9"
+  },
+  "paper/chinese/main.pdf": {
+    "bytes": 672679,
+    "sha256": "cd7377c18d16a44108755a62e2d9d50ac7a0efe11cbd24f6c01166f96bf22d5b"
+  },
+  "paper/original/main_zh.pdf": {
+    "bytes": 1078102,
+    "sha256": "59a613c20be4141a0c704096872c6db4e0b4f01d6b1e220739ad432f03e0a556"
+  },
+  "docs/epi_mechanisms_zh.md": {
+    "bytes": 6159,
+    "sha256": "3bcc002b7c024dabbe1ece30a9e7471faebf5aa057a411c8685c144cdacc52a8"
+  },
+  "evidence/ili/metrics.csv": {
+    "bytes": 1020607,
+    "sha256": "91759b8f4a2ce0479b11841247ee0928cd0625c9cc87ca21d59f9331b7a54dfb"
+  },
+  "results/ili/metrics.csv": {
+    "bytes": 193365,
+    "sha256": "2d20409b777849fcb6a61dcb5bec8478107017c29c04c2566b4bb3e2234dae4e"
+  },
+  "results/fixed_era_flu/metrics.csv": {
+    "bytes": 145327,
+    "sha256": "6c5b85bdd465256669ff792fd530c04f2f6ca3cb20a0376c6787c7b53eb690ed"
+  }
+}
